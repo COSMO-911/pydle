@@ -1,6 +1,6 @@
 #total characters 167/250 , time taken: 1h 2m
 
-r = range(5)
+r = range(5) 
 for i in r:
     pydle(i, r[-i-1],"", "red")
     pydle(i,5-i,"","orange")
