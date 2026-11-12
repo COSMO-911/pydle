@@ -1,2 +1,3 @@
 # pydle
-my soluitions for  https://pydle.net/
+my solutions for  https://pydle.net/
+date format - dd-mm-yyyy
