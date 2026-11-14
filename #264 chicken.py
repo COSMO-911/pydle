@@ -7,4 +7,4 @@ for i in r:
 for i in 11,15,16: pydle(i%5, i//5, "", "orange")
 pydle(3,4,"","white")
 pydle(3,2,"","black")
-pydle(0,0,"","black")
+pydle(0,0,"","black") 
